@@ -1,8 +1,8 @@
-version: 1.0.24
+version: 1.0.25
 files:
-  - url: apigsm-1.0.24-setup.exe
-    sha512: YodQNQanmxK+ExlNDzdNlYwwpw23L6EucbTxk3ucFNUvSsCR61W2+RKz/uA+wd4/VoBY/x/H5PFMLlWuTEPe+w==
-    size: 100834761
-path: apigsm-1.0.24-setup.exe
-sha512: YodQNQanmxK+ExlNDzdNlYwwpw23L6EucbTxk3ucFNUvSsCR61W2+RKz/uA+wd4/VoBY/x/H5PFMLlWuTEPe+w==
-releaseDate: '2024-04-11T09:34:20.230Z'
+  - url: apigsm-1.0.25-setup.exe
+    sha512: dreewTtH+vMqc12kQkyIHriYgaHZnQevAOSpAD21pZB742kSeV95aj2zSy2a4wfjOKYo6iD8AzmfsvR1/pENag==
+    size: 100820800
+path: apigsm-1.0.25-setup.exe
+sha512: dreewTtH+vMqc12kQkyIHriYgaHZnQevAOSpAD21pZB742kSeV95aj2zSy2a4wfjOKYo6iD8AzmfsvR1/pENag==
+releaseDate: '2024-04-17T16:52:25.989Z'
