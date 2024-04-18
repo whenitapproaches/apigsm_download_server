@@ -1,0 +1,8 @@
+version: 1.0.26
+files:
+  - url: apigsm-1.0.26-setup.exe
+    sha512: D+UaP4WavMs/yxqCXEBnunKe0g0tl74vRoJdSKEpmvBuVT0/8oUER6KQtVVI0R6g6t6JJwnt/eo3hjgTyXZh6A==
+    size: 100820142
+path: apigsm-1.0.26-setup.exe
+sha512: D+UaP4WavMs/yxqCXEBnunKe0g0tl74vRoJdSKEpmvBuVT0/8oUER6KQtVVI0R6g6t6JJwnt/eo3hjgTyXZh6A==
+releaseDate: '2024-04-18T13:37:34.097Z'
