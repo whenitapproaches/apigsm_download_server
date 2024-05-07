@@ -1,8 +1,8 @@
-version: 1.0.28
+version: 1.0.29
 files:
-  - url: apigsm-1.0.28-setup.exe
-    sha512: ryTqKCInv1b4SVYDcz5nwnKqibFMz4BPbj9T4UnAd0klW5nyR1hB0ghp+jMjVscbf+v8PiyWlMuuh86WN0a3kg==
-    size: 97704947
-path: apigsm-1.0.28-setup.exe
-sha512: ryTqKCInv1b4SVYDcz5nwnKqibFMz4BPbj9T4UnAd0klW5nyR1hB0ghp+jMjVscbf+v8PiyWlMuuh86WN0a3kg==
-releaseDate: '2024-05-05T14:55:06.542Z'
+  - url: apigsm-1.0.29-setup.exe
+    sha512: lEW3SDLcrm173obXbIRdQ92Ta520J4ZEY8r1DJfJ5BtyxoRQFoOT4tnOd51xzQXL4GlwrA/6Z8KzG9JeJ06gfQ==
+    size: 97698065
+path: apigsm-1.0.29-setup.exe
+sha512: lEW3SDLcrm173obXbIRdQ92Ta520J4ZEY8r1DJfJ5BtyxoRQFoOT4tnOd51xzQXL4GlwrA/6Z8KzG9JeJ06gfQ==
+releaseDate: '2024-05-07T15:22:50.514Z'
