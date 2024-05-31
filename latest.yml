@@ -1,8 +1,8 @@
-version: 1.0.38
+version: 1.0.39
 files:
-  - url: apigsm-1.0.38-setup.exe
-    sha512: TM2MSrQCWEmMMZIfb1PIZP92GmgCmaAXFU9WsLAqG2zqwGEFVl6lCzsz3/tRD1hRLjeBYi56FJNHFpD5DYrSyA==
-    size: 97702844
-path: apigsm-1.0.38-setup.exe
-sha512: TM2MSrQCWEmMMZIfb1PIZP92GmgCmaAXFU9WsLAqG2zqwGEFVl6lCzsz3/tRD1hRLjeBYi56FJNHFpD5DYrSyA==
-releaseDate: '2024-05-28T15:47:45.806Z'
+  - url: apigsm-1.0.39-setup.exe
+    sha512: MMR8BRo2aEnS6h6NUdm/vTbOAMPcJ0b/NfCOMnjpFOBFfElukrCxOgrgYqETCSukj9EO6FY2AN1iMs3NJqJqkg==
+    size: 97702392
+path: apigsm-1.0.39-setup.exe
+sha512: MMR8BRo2aEnS6h6NUdm/vTbOAMPcJ0b/NfCOMnjpFOBFfElukrCxOgrgYqETCSukj9EO6FY2AN1iMs3NJqJqkg==
+releaseDate: '2024-05-31T16:12:00.125Z'
