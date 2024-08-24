@@ -1,0 +1,8 @@
+version: 1.0.45
+files:
+  - url: apigsm-1.0.45-setup.exe
+    sha512: 1QRMkChXULsJ7VLAZfYqGawAerKbGTCwqBRrMGi4yWTtD0Wc4/IHV8ze2PCMonFvj2JtwVIXvtXoqwjLpBlDEQ==
+    size: 97712770
+path: apigsm-1.0.45-setup.exe
+sha512: 1QRMkChXULsJ7VLAZfYqGawAerKbGTCwqBRrMGi4yWTtD0Wc4/IHV8ze2PCMonFvj2JtwVIXvtXoqwjLpBlDEQ==
+releaseDate: '2024-08-24T06:37:22.803Z'
