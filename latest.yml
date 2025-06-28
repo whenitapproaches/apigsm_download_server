@@ -1,8 +1,8 @@
-version: 1.0.55
+version: 1.0.56
 files:
-  - url: apigsm-1.0.55-setup.exe
-    sha512: 7NN9yySpXMVn2rvTEBggGAaeYzU0OYoW4cXAQjNACCxC3y3YiEVTNNqwWzyzwgEZf/o50MJdCH1wLTgtRA2zgQ==
-    size: 94067197
-path: apigsm-1.0.55-setup.exe
-sha512: 7NN9yySpXMVn2rvTEBggGAaeYzU0OYoW4cXAQjNACCxC3y3YiEVTNNqwWzyzwgEZf/o50MJdCH1wLTgtRA2zgQ==
-releaseDate: '2025-04-15T08:47:14.789Z'
+  - url: apigsm-1.0.56-setup.exe
+    sha512: 9NadN6d6THoOgrjIxUQRupliLJuGH4WNOnjeSsSb0SDnSm8BSdZ0XxE524bSh3ng3I5Gb5FFJ05BzyuW9JyjnQ==
+    size: 88675767
+path: apigsm-1.0.56-setup.exe
+sha512: 9NadN6d6THoOgrjIxUQRupliLJuGH4WNOnjeSsSb0SDnSm8BSdZ0XxE524bSh3ng3I5Gb5FFJ05BzyuW9JyjnQ==
+releaseDate: '2025-06-28T15:50:14.889Z'
