@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.exe
+!*.exe.blockmap
+!latest.yml
+!index.html
+!*.rar
