@@ -1,8 +1,8 @@
-version: 1.2.14
+version: 1.2.16
 files:
-  - url: apigsm-1.2.14-setup.exe
-    sha512: hGWxylV5VpvBka+fWXLB+EAG7Ix13cQbbjrTt8V/cEAJl+Heb2HqWg7cMQ8mj5LdvwWRF4t1MtT/KxjL5CWDNA==
-    size: 100611996
-path: apigsm-1.2.14-setup.exe
-sha512: hGWxylV5VpvBka+fWXLB+EAG7Ix13cQbbjrTt8V/cEAJl+Heb2HqWg7cMQ8mj5LdvwWRF4t1MtT/KxjL5CWDNA==
-releaseDate: '2026-01-30T05:16:16.241Z'
+  - url: apigsm-1.2.16-setup.exe
+    sha512: +2yekBHyoeFz0tGA96+2y+T2rmmeOsyis0Sxj9xi1DW6FfYfxH1Sj48Lljo1pzmtb5l4ojAtZFo3VnONIrck1g==
+    size: 100648586
+path: apigsm-1.2.16-setup.exe
+sha512: +2yekBHyoeFz0tGA96+2y+T2rmmeOsyis0Sxj9xi1DW6FfYfxH1Sj48Lljo1pzmtb5l4ojAtZFo3VnONIrck1g==
+releaseDate: '2026-02-06T15:38:28.828Z'
