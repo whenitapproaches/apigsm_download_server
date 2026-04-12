@@ -1,8 +1,8 @@
-version: 1.2.23
+version: 1.2.25
 files:
-  - url: apigsm-1.2.23-setup.exe
-    sha512: Qlrl42/HlBKBqUfpecZX27BeXxPh/8WhReN3mV5f4JkcK4D6RAffP70ses+fIW93obTnpYiEy7yXcW+w3Jeq+A==
-    size: 100807287
-path: apigsm-1.2.23-setup.exe
-sha512: Qlrl42/HlBKBqUfpecZX27BeXxPh/8WhReN3mV5f4JkcK4D6RAffP70ses+fIW93obTnpYiEy7yXcW+w3Jeq+A==
-releaseDate: '2026-04-02T15:32:06.273Z'
+  - url: apigsm-1.2.25-setup.exe
+    sha512: 1QxafbNQw3BQuoBwvpryAB1ZmHySfrFIuwobp92rzT3J71Lx1uzSDgHegpdwmyYOaOufFCEf0qs+fobrDRvuVg==
+    size: 100946124
+path: apigsm-1.2.25-setup.exe
+sha512: 1QxafbNQw3BQuoBwvpryAB1ZmHySfrFIuwobp92rzT3J71Lx1uzSDgHegpdwmyYOaOufFCEf0qs+fobrDRvuVg==
+releaseDate: '2026-04-12T14:09:31.472Z'
